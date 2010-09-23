@@ -22,7 +22,7 @@ Slidet löytyvät open office presentation tiedostosta arduinon-perusteet.odp.
 
 Kytkennät ja ohjelmat on ryhmitelty alikansioihin esimerkkikohtaisesti.
 
-Fritzing formaatissa.
+Kytkennät Fritzing formaatissa.
 Ohjelmat on Arduino kielellä.
 
 
