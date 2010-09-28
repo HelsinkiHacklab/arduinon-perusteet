@@ -29,6 +29,6 @@ Ohjelmat on Arduino kielellä.
 === Credits ===
 
 Kalvot: Hans Häggström
-Kytkennät: 
-Ohjelmat: 
+Kytkennät: Taneli Kaivola
+Ohjelmat: Taneli Kaivola
 
