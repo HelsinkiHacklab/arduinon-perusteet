@@ -1,0 +1,1 @@
+Yksinkertainen ledin vilkuttaminen ilman koekytkentälevyä.

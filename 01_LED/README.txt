@@ -1,0 +1,1 @@
+Yksinkertainen ledin vilkuttaminen koekytkentälevyn ja etuvastuksen kanssa.
