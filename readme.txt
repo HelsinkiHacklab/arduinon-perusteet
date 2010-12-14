@@ -24,6 +24,9 @@ Kytkennät ja ohjelmat on ryhmitelty alikansioihin esimerkkikohtaisesti.
 Kytkennät Fritzing formaatissa.
 Ohjelmat on Arduino kielellä.
 
+== Suunnittelu ===
+
+http://kirjoitusalusta.fi/hacklab-arduinokurssi
 
 === Credits ===
 
