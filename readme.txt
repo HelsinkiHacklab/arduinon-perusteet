@@ -12,7 +12,6 @@ Creative Commons CC-By-Sa.
 Eli saa käyttää ja parannella kunhan mainitsee kurssin alkuperäiset tekijät.
 Jos muutta, niin muutokset pitää julkaista saman lisenssin alla.
 
-
 === Kalvot ===
 
 Slidet löytyvät open office presentation tiedostosta arduinon-perusteet.odp.
